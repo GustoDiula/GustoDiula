@@ -1,7 +1,8 @@
 ## Olá, eu sou o Gustavo Diula 👋🤠
 - 📜 Estudante do Colegio Estadual Presidente Kennedy - Desenvolvimento de Sistemas
+- 📫 Em caso de dúvidas, entrar em contato através do email: gustavodiula6@gmail.com
+- 🏍️ Eu faço trilha de moto.
 - 👨🏻‍💻 O meu conteudo faforito se trata do estudo das linguagens listadas abaixo ⬇️ 
-- 📫 Em caso de dúvidas, entrar em contato através do email:##gustavodiula6@gmail.com
 
 <div align= "center">
   
